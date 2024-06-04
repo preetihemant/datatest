@@ -91,13 +91,13 @@ input, select, textarea {
 		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
-		background-color: #f7f7f7;
+		background-color: #ffffff;
 		background-position: top left, top left;
 		background-repeat: repeat-x, repeat;
 		background-size: 100% 30em, auto;
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #696969;
+		color: #ffffff;
 		font-weight: 300;
 		line-height: 2.25em;
 	}
@@ -2110,6 +2110,26 @@ input, select, textarea {
 				#banner header h2 a:hover {
 					border-bottom-color: transparent;
 				}
+			
+		#banner header h3 {
+			display: inline-block;
+			margin: 0;
+			font-family: Georgia;
+			font-size: 5em;
+			vertical-align:middle;
+		}
+		
+			#banner header h3 em {
+				opacity: 0.75;
+			}
+		
+			#banner header h3 a {
+				border-bottom-color: rgba(113, 114, 111, 0.5);
+			}
+		
+				#banner header h3 a:hover {
+					border-bottom-color: transparent;
+				}		
 
 		#banner header .button {
 			vertical-align: top;
