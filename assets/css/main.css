@@ -2079,30 +2079,30 @@ input, select, textarea {
 		padding: 1.5em 0;
 	}
 
-		#banner header h1 {
+		#banner header h2 {
 			display: inline-block;
 			margin: 0;
-			font-family: Helvetica, sans-serif;
+			font-family: Cambria;
 			font-size: 3em;
 			vertical-align:middle;
 		}
 
-			#banner header h1 em {
+			#banner header h2 em {
 				opacity: 0.75;
 			}
 
-			#banner header h1 a {
+			#banner header h2 a {
 				border-bottom-color: rgba(113, 114, 111, 0.5);
 			}
 
-				#banner header h1 a:hover {
+				#banner header h2 a:hover {
 					border-bottom-color: transparent;
 				}
 			
 		#banner header h3 {
 			display: inline-block;
 			margin: 0;
-			font-family: Helvetica, sans-serif;
+			font-family: Cambria;
 			font-size: 2em;
 			vertical-align:bottom;
 		}
