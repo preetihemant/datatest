@@ -2088,7 +2088,7 @@ input, select, textarea {
 		width: 100%;
 		background: #8a1b1b;
 		background: rgba(90, 79, 207, 0.75);
-		color: #0a0909;
+		color: #20b881;
 		padding: 1.5em 0;
 	}
 
@@ -2104,7 +2104,7 @@ input, select, textarea {
 			}
 
 			#banner header h2 a {
-				border-bottom-color: rgba(255, 255, 255, 0.5);
+				border-bottom-color: rgba(185, 234, 87, 0.5);
 			}
 
 				#banner header h2 a:hover {
