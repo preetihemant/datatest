@@ -2073,7 +2073,7 @@ input, select, textarea {
 /* Banner */
 
 #banner {
-	background-image: url("../../images/banner.jpg");
+	background-image: url("../../images/home.jpg");
 	background-position: center center;
 	background-size: cover;
 	height: 28em;
@@ -2086,7 +2086,7 @@ input, select, textarea {
 		bottom: 0;
 		left: 0;
 		width: 100%;
-		background: #090909;
+		background: #8a1b1b;
 		background: rgba(90, 79, 207, 0.75);
 		color: #0a0909;
 		padding: 1.5em 0;
@@ -2096,7 +2096,7 @@ input, select, textarea {
 			display: inline-block;
 			margin: 0;
 			font-size: 1.25em;
-			vertical-align:top;
+			vertical-align:middle;
 		}
 
 			#banner header h2 em {
@@ -2112,7 +2112,7 @@ input, select, textarea {
 				}
 
 		#banner header .button {
-			vertical-align: middle;
+			vertical-align: top;
 			margin-left: 1em;
 		}
 
