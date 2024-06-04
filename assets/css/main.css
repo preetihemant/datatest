@@ -192,13 +192,13 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
-/* Container */
+/* Container  the boxes at what we do, footer, nav panel and services list*/
 
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
-		background-color: #af1c1c;
+		background-color: #ffffff; 
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1765,7 +1765,7 @@ input, select, textarea {
 	}
 
 		ul.menu li {
-			border-left: solid 1px #e0e0e0;
+			border-left: solid 1px #ffffff;
 			display: inline-block;
 			padding: 0 0 0 0.75em;
 			margin: 0 0 0 0.75em;
@@ -1780,7 +1780,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #fff;
+		background: #ffffff;
 		border-radius: 6px;
 		box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.05);
 		padding: 2em;
