@@ -2086,9 +2086,9 @@ input, select, textarea {
 		bottom: 0;
 		left: 0;
 		width: 100%;
-		background: #212121;
-		background: rgba(27, 27, 27, 0.75);
-		color: #fff;
+		background: #090909;
+		background: rgba(90, 79, 207, 0.75);
+		color: #0a0909;
 		padding: 1.5em 0;
 	}
 
@@ -2096,7 +2096,7 @@ input, select, textarea {
 			display: inline-block;
 			margin: 0;
 			font-size: 1.25em;
-			vertical-align: middle;
+			vertical-align:top;
 		}
 
 			#banner header h2 em {
