@@ -2094,7 +2094,8 @@ input, select, textarea {
 		#banner header h2 {
 			display: inline-block;
 			margin: 0;
-			font-size: 1.25em;
+			font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+			font-size: 2em;
 			vertical-align:middle;
 		}
 
