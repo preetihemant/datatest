@@ -2086,8 +2086,8 @@ input, select, textarea {
 		bottom: 50%;
 		left: 0;
 		width: 100%;
-		background: rgba(162, 159, 194, 0.75);
-		color: #060707;
+		/* background: rgba(162, 159, 194, 0.75); */
+		color: #000000;
 		padding: 1.5em 0;
 	}
 
