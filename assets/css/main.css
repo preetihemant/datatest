@@ -2083,12 +2083,11 @@ input, select, textarea {
 
 	#banner header {
 		position: absolute;
-		bottom: 0;
+		bottom: 50%;
 		left: 0;
 		width: 100%;
-		background: #8a1b1b;
-		background: rgba(90, 79, 207, 0.75);
-		color: #20b881;
+		background: rgba(162, 159, 194, 0.75);
+		color: #060707;
 		padding: 1.5em 0;
 	}
 
@@ -2104,7 +2103,7 @@ input, select, textarea {
 			}
 
 			#banner header h2 a {
-				border-bottom-color: rgba(185, 234, 87, 0.5);
+				border-bottom-color: rgba(164, 166, 161, 0.5);
 			}
 
 				#banner header h2 a:hover {
