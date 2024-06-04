@@ -2094,8 +2094,8 @@ input, select, textarea {
 		#banner header h2 {
 			display: inline-block;
 			margin: 0;
-			font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-			font-size: 2em;
+			font-family: 'Arial Bold';
+			font-size: 3em;
 			vertical-align:middle;
 		}
 
@@ -2104,7 +2104,7 @@ input, select, textarea {
 			}
 
 			#banner header h2 a {
-				border-bottom-color: rgba(164, 166, 161, 0.5);
+				border-bottom-color: rgba(113, 114, 111, 0.5);
 			}
 
 				#banner header h2 a:hover {
