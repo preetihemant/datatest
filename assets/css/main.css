@@ -2115,21 +2115,13 @@ input, select, textarea {
 			display: inline-block;
 			margin: 0;
 			font-family: Arial;
-			font-size: 2emem;
-			vertical-align:middle;
+			font-size: 2em;
+			vertical-align:bottom;
 		}
 		
 			#banner header h3 em {
 				opacity: 0.75;
 			}
-		
-			#banner header h3 a {
-				border-bottom-color: rgba(113, 114, 111, 0.5);
-			}
-		
-				#banner header h3 a:hover {
-					border-bottom-color: transparent;
-				}		
 
 		#banner header .button {
 			vertical-align: top;
